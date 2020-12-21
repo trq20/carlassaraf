@@ -1,4 +1,4 @@
-# Hola, soy Fabrizio Carlassara ![School of the Wolf](https://static.wikia.nocookie.net/witcher/images/4/4b/Wolf_School_medallion.png/revision/latest/top-crop/width/300/height/300?cb=20151008164535){:height="25px width="25px"}
+# Hola, soy Fabrizio Carlassara ![School of the Wolf](https://static.wikia.nocookie.net/witcher/images/4/4b/Wolf_School_medallion.png/revision/latest/top-crop/width/300/height/300?cb=20151008164535 =25x25)
 
 > "*It is the small things, everyday deeds of ordinary folk that keeps the darkness at bay. Simple acts of love and kindness." - Gandalf*
 
@@ -6,7 +6,7 @@
 
 *Programador en mis tiempos libres.*
 
-[![Instagram](https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png)](https://instagram.com/carlassaraf)
+[![Instagram](https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png =25x25)](https://instagram.com/carlassaraf)
 
 ### Un poquito mas sobre mi
 

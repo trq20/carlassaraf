@@ -6,7 +6,7 @@
 
 *Programador en mis tiempos libres.*
 <p>
-[![Discord Char](https://img.shields.io/discord/789588051303202916)](https://discord.gg/)
+![[Discord Char](https://img.shields.io/discord/789588051303202916)](https://discord.gg/)
 [![Instagram](https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png)](https://instagram.com/carlassaraf)
 </p>
 ### Un poquito mas sobre mi

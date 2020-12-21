@@ -6,7 +6,7 @@
 
 [![Discord Chat](https://img.shields.io/discord/789588051303202916.svg)](https://discord.gg/)[![GitHub carlassaraf](https://img.shields.io/github/followers/carlassaraf?label=Follow&style=social)](https://github/com/carlassaraf)[<img src="https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png" height="24">](https://instagram.com/carlassaraf)
 
-### Un poquito mas sobre mi <img src="https://media1.giphy.com/media/lr7oEPc5Y5kBbM7Q8G/giphy.gif?cid=ecf05e47n7digxerornf0i6s2ouos5t4yu9ffhi87tor8g9g&rid=giphy.gif" width="75">
+### <img src="https://media1.giphy.com/media/lr7oEPc5Y5kBbM7Q8G/giphy.gif?cid=ecf05e47n7digxerornf0i6s2ouos5t4yu9ffhi87tor8g9g&rid=giphy.gif" width="75">Un poquito mas sobre mi 
 
 ```javascript
 var fabri = {
@@ -25,6 +25,6 @@ var fabri = {
 	trabajo : "Docente del IMPA",
 }
 ```
-> "*All we have to do is decide what to do with the time that is given to us." - Gandalf* 
+> "*All we have to do is decide what to do with the time that is given to us." - **Gandalf*** 
 
 ---

@@ -1,4 +1,4 @@
-# Hola, soy Fabrizio Carlassara ![School of the Wolf](https://static.wikia.nocookie.net/witcher/images/4/4b/Wolf_School_medallion.png/revision/latest/top-crop/width/300/height/300?cb=20151008164535 =25x25)
+# Hola, soy Fabrizio Carlassara ![School of the Wolf](https://static.wikia.nocookie.net/witcher/images/4/4b/Wolf_School_medallion.png/revision/latest/top-crop/width/300/height/300?cb=20151008164535 | width=25)
 
 > "*It is the small things, everyday deeds of ordinary folk that keeps the darkness at bay. Simple acts of love and kindness." - Gandalf*
 

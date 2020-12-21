@@ -5,10 +5,10 @@
 *Estudiante de Ingeniería Electrónica en la UTN de Avellaneda.*
 
 *Programador en mis tiempos libres.*
-<p>
+
 [![Discord Chat](https://img.shields.io/discord/789588051303202916.svg)](https://discord.gg/)
 [![Instagram](https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png)](https://instagram.com/carlassaraf)
-</p>
+
 ### Un poquito mas sobre mi
 
 ```javascript

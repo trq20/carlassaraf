@@ -15,8 +15,8 @@ var fabri = {
     lenguajes : ["c/c++", "python", "javascript", "html", "css", "java"],
     objetivos : {
         corto_plazo : "Tener horarios de sueño mas normales",
-        medio_plazo : "Terminar mi carrera"
-        largo_plazo : "Trabajar como desarrollador independiente"
+        medio_plazo : "Terminar mi carrera",
+        largo_plazo : "Trabajar como desarrollador independiente",
     },
     estudios : {
     	secundaria : "Tecnico Avionico del IMPA",

@@ -22,7 +22,7 @@ var fabri = {
     	secundaria : "Tecnico Avionico del IMPA",
     	universidad : "Estudiante de Ingenieria Electronica de la UTN"
 	},
-	trabajo : "Docente del IMPA",
+    trabajo : "Docente del IMPA",
 }
 ```
 > "*All we have to do is decide what to do with the time that is given to us." - **Gandalf*** 

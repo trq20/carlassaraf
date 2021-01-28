@@ -21,7 +21,7 @@ var fabri = {
     estudios : {
     	secundaria : "Tecnico Avionico del IMPA",
     	universidad : "Estudiante de Ingenieria Electronica de la UTN"
-	},
+    },
     trabajo : "Docente del IMPA",
 }
 ```

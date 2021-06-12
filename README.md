@@ -1,30 +1,48 @@
-<h2>Hola, soy Fabrizio Carlassara! <img src="https://static.wikia.nocookie.net/witcher/images/4/4b/Wolf_School_medallion.png/revision/latest/top-crop/width/300/height/300?cb=20151008164535" width="50"></h2>
+## I'm a Student, Developer and Teacher 
 
-*Estudiante de Ingeniería Electrónica en la UTN de Avellaneda.* <img src="https://media0.giphy.com/media/mEt0VjSByhp5HIZmu4/giphy.gif?cid=ecf05e47t8ocqzd7j6djza3v1okhxsuyp295uhfucehvq2om&rid=giphy.gif" width="30">
+- :books: I'm an Electrical Engeneering student
+- :school: I teach programming at a High School
+- :bulb: Allways looking to innovate and develop new education tools
+- :zap: I like to read fantasy books when I have time to spare.
 
-*Programador en mis tiempos libres.* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-[![Discord Chat](https://img.shields.io/discord/789588051303202916.svg)](https://discord.gg/fCmFrq3Wc8)[![GitHub carlassaraf](https://img.shields.io/github/followers/carlassaraf?label=Follow&style=social)](https://github/com/carlassaraf)[<img src="https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png" height="24">](https://instagram.com/carlassaraf)
-
-### <img src="https://media1.giphy.com/media/lr7oEPc5Y5kBbM7Q8G/giphy.gif?cid=ecf05e47n7digxerornf0i6s2ouos5t4yu9ffhi87tor8g9g&rid=giphy.gif" width="75">Un poquito mas sobre mi 
+### More about me 
 
 ```javascript
-var fabri = {
-    edad : 23,
-    pasatiempos : ["programar", "musica", "leer"],
-    lenguajes : ["c/c++", "python", "javascript", "html", "css", "java"],
-    objetivos : {
-        corto_plazo : "Tener horarios de sueño mas normales",
-        medio_plazo : "Terminar mi carrera",
-        largo_plazo : "Trabajar como desarrollador independiente",
+var carlassaraf = {
+    age : 24,
+    hobbies : ["programing", "reading", "videogames"],
+    languages : ["c/c++", "python", "javascript", "html", "css", "java"],
+    goals : {
+        inmediate : "Try to have 6 hours of sleep",
+        long_term : "Work as an independent software developer",
     },
-    estudios : {
-    	secundaria : "Tecnico Avionico del IMPA",
-    	universidad : "Estudiante de Ingenieria Electronica de la UTN"
-	},
-	trabajo : "Docente del IMPA",
 }
 ```
-> "*All we have to do is decide what to do with the time that is given to us." - **Gandalf*** 
 
----
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![GitHub carlassaraf](https://img.shields.io/github/followers/carlassaraf?label=Follow&style=social)][github]
+
+<br>
+
+<details>
+
+<summary>:zap: Github Stats</summary>
+
+![carlassaraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlassaraf&count_private=true)
+
+</details>
+
+<details>
+
+<summary>:zap: Most Used Languages</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlassaraf)
+
+</details>
+
+[linkedin]: https://linkedin.com/in/carlassaraf
+[instagram]: https://instagram.com/carlassaraf
+[github]: https://github/com/carlassaraf
